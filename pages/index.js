@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+      <link rel="icon" href="https://rdby.000webhostapp.com/logo.png">
+        <title>💖 Ruby Rose Is Here 💖</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
